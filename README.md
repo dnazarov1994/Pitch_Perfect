@@ -5,6 +5,7 @@ The Pitch Perfect app allows users to record their voice and then modulate the r
 <img width="400" alt="Screen Shot 2019-08-18 at 12 01 28 AM" src="https://user-images.githubusercontent.com/46335329/63219975-2e4d3d80-c14c-11e9-809e-8ff3e3ee734d.png">
 
 <img width="401" alt="Screen Shot 2019-08-18 at 12 01 53 AM" src="https://user-images.githubusercontent.com/46335329/63219982-5177ed00-c14c-11e9-9e09-0861bff94472.png">
+
 ## App Implementation
 The app has two view controller scenes:
 - Record Sounds View Controller: Allows the user to record the voice.
