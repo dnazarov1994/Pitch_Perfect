@@ -69,7 +69,7 @@ The app has two view controller scenes:
 ```
 ## Requirements
 - Xcode 9.2
-- Swift 4.0
+- Swift 4.2
 
 
 
